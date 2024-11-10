@@ -27,7 +27,10 @@
 
 ## Установка
 
-1. Скачайте образ
+1. Скачать образ машины по ссылке
+```bash
+   https://cloud.mail.ru/public/feNE/NUiDvkto4
+```
 2. Убедитесь, что у вас установлены необходимые инструменты:
     Nmap: для сканирования портов.
     Dirsearch: для перебора директорий.
@@ -69,10 +72,10 @@ ssh -i path/to/key mrrobot@yourserverip
 ```
 
 ### Зависимости
-  Nmap
-  Dirsearch
-  Hydra или Medusa
-  vsftpd и samba
+  Nmap,
+  Dirsearch,
+  Hydra или Medusa,
+  vsftpd и samba,
   OpenSSH
 
 ### Безопасность
